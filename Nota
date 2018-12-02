@@ -1,0 +1,30 @@
+clear
+	R='\033[1;31m'
+        G='\033[1;32m'
+        Y='\033[1;33m'
+        B='\033[1;34m'
+        M='\033[1;35m'
+        C='\033[1;36m'
+        W='\033[0m'
+echo -e "$Y Grasias por usar mi herramienta, un saludo para mi grupo    de whatzapp telegram facebook.. quienes me inspiraron a crear esta hermosa herramenta att... $C Cesar
+
+$Y quieres unirte ami grupo
+
+$B https://t.me/joinchat/AAAAAFDNTdu8PWe8oABmxA
+
+$Y Suscribete a mi canal 
+
+$R https://www.youtube.com/channel/UCjs0N8PbEo-se0r_4O_svNQ
+
+$B Facebook
+
+$C Cesar Hack Gray $Y
+
+pro in in termux trancks using mi tool
+pro en termux grasias por usar mi herramienta
+
+$R                ÷ADVERTENSIA÷
+$C        Esta herramienta fue creada con fines
+	educativos he informativos por ello no
+	me ago responsable del mal uso
+	   que le puedas brindarle $Cesar"
